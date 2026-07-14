@@ -1,10 +1,6 @@
 # Color-Palette
 Color Palette in Python!
 
-# calculator
-A basic calculator written on python.
-
-
 **Requirements**
 
 This project requires the Colorama module and pip preinstalled.
