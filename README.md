@@ -6,7 +6,7 @@ Color Palette in Python!
 This project requires the Colorama module and pip preinstalled.
 
 Windows:
-
+<hr>
 `py -m pip install colorama`
 
 Linux:
@@ -34,4 +34,4 @@ or
 
 `sudo dnf install python3-pip`
 
-Added more bugs to fix later 🕦
+**Added more bugs to fix later 🕦**
