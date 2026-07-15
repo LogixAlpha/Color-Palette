@@ -1,12 +1,14 @@
 # Color-Palette
 Color Palette in Python!
-
+<hr>
 **Requirements**
 
 This project requires the Colorama module and pip preinstalled.
 
-Windows:
 <hr>
+
+Windows:
+
 `py -m pip install colorama`
 
 Linux:
@@ -16,6 +18,8 @@ Linux:
 or
 
 `pip install colorama`
+
+<hr>
 
 # How to install pip
 
@@ -33,5 +37,7 @@ or
 **Linux (Fedora)**
 
 `sudo dnf install python3-pip`
+
+<hr>
 
 **Added more bugs to fix later 🕦**
