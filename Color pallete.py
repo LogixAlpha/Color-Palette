@@ -1,4 +1,5 @@
 from colorama import Style , Fore , init , Back
+# why I can't just write on print command :)
 print(f"{Back.BLACK}      {Style.RESET_ALL}"
       f"{Back.RED}      {Style.RESET_ALL}"
       f"{Back.GREEN}      {Style.RESET_ALL}"
