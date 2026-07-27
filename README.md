@@ -2,7 +2,7 @@
 Color Palette in Python!
 <hr>
 
-** Requirements **
+**Requirements**
 
 This project requires the Colorama module and pip preinstalled.
 
