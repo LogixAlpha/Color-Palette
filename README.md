@@ -22,23 +22,23 @@ or
 
 <hr>
 
-# How to install pip
+# How to install pip:
 
-- **Linux (Debian/Ubuntu)**
+- **Debian/Ubuntu:**
 
 `sudo apt update`
 
 
 `sudo apt install python3-pip`
 
-- **Linux (Arch)**
+- **Arch:**
 
 `sudo pacman -S python-pip`
 
-- **Linux (Fedora)**
+- **Fedora:**
 
 `sudo dnf install python3-pip`
 
 <hr>
 
-**Added more bugs to fix later 🕦**
+** GIVE ME IDEAS 🕦**
